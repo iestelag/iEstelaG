@@ -1,52 +1,25 @@
-# Hi, I'm Estela 👋
+# Estela Gómez Fernández
 
-Junior Software Developer focused on web development, Python and Artificial Intelligence applied to software development.
+Junior Software Developer with a background in Web Application Development.
 
-## About me
+I have worked with web development, functional testing, data validation and API-based workflows. My current focus is expanding my knowledge in Python and Artificial Intelligence applied to software development.
 
-🎓 Higher Technician in Web Application Development  
-💻 Experience in software development, functional testing and data validation  
-🐍 Working with Python, JavaScript, PHP and web technologies  
-🧪 Experience with functional and E2E testing, APIs and QA workflows  
-🤖 Currently expanding my skills in Artificial Intelligence applied to software development  
+## Technologies
 
-## Tech Stack
+Python · JavaScript · HTML5 · CSS3 · Angular · PHP · MySQL · MongoDB · Git · REST APIs · Azure DevOps · Grafana
 
-- Python
-- JavaScript
-- HTML5
-- CSS3
-- Angular
-- PHP
-- MySQL
-- MongoDB
-- Git / GitHub
-- REST APIs
-- Azure DevOps
-- Grafana
+## Currently learning
 
-## Currently Learning
+FastAPI · Generative AI · LLM APIs · Embeddings · RAG · AI Testing · Docker
 
-- FastAPI
-- Generative AI
-- LLM APIs
-- Embeddings
-- RAG
-- AI Testing
-- Docker
+## Projects
 
-## Featured Projects
-
-### 🎵 Crescendo
+### Crescendo
 Educational web platform developed with HTML, CSS, JavaScript, PHP and MySQL.
 
-### 🌐 Poniente Colours
-Corporate website developed with web technologies and 3D models.
+### Poniente Colours
+Corporate website developed with web technologies and 3D model integration.
 
-## Current Focus
+## Current focus
 
-Building practical projects focused on Python, Artificial Intelligence, APIs and software development.
-
-## Contact
-
-- LinkedIn: add your LinkedIn profile here
+Building practical projects around Python, APIs and AI-powered software development.
