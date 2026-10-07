@@ -76,6 +76,6 @@ The repository documents my learning path through Python, APIs, FastAPI, LLMs, R
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/estela-gómez-fernández-649023364)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estela-g%C3%B3mez-fern%C3%A1ndez-649023364/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-iestelag-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iestelag)
